@@ -3,7 +3,12 @@
 }
 
 .green-highlight {
-    color: green;
+    color: rgb(82, 235, 82);
+}
+
+.buy-now {
+    background-color: rgb(0, 0, 95);
+    border-radius: 0.5em;
 }
 
 .backpack-card {
@@ -15,8 +20,13 @@
     border: 0;
 }
 
+.thumbnail {
+    background-color: rgba(84, 85, 84, 0.3);
+    border-radius: 0.35em;
+}
+
 .footer {
-    background-color: #eae7f0;
+    background-color: white;
     margin: o0x auto;
     padding: 20px 0px 20px 0px;
 }
@@ -26,6 +36,11 @@
 }
 
 .details-form {
-    background-color: rgba(69, 67, 224, 0.4);
+    background-color: rgba(66, 68, 66, 0.3);
+    border: greenyellow;
+    border-radius: 0.5em;
+}
 
+.mr-gutters {
+    border-radius: 0.5em;
 }
