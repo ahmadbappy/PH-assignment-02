@@ -1,0 +1,31 @@
+* {
+    font-family: 'Raleway', sans-serif;
+}
+
+.green-highlight {
+    color: green;
+}
+
+.backpack-card {
+    border: 0;
+}
+
+.backpack-card-footer {
+    background-color: white;
+    border: 0;
+}
+
+.footer {
+    background-color: #eae7f0;
+    margin: o0x auto;
+    padding: 20px 0px 20px 0px;
+}
+
+.col-auto {
+    font-size: smaller;
+}
+
+.details-form {
+    background-color: rgba(69, 67, 224, 0.4);
+
+}
